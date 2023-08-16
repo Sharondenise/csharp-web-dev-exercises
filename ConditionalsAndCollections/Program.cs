@@ -4,6 +4,15 @@
 
 Console.WriteLine("Hello, Arrays!");
 
+int[] listOfValues = {1,1,2,3,5,8};
+
+foreach(int num in listOfValues)
+{
+    Console.WriteLine(num);
+};
+
+
+
 
 
 
